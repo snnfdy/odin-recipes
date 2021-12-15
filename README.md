@@ -1,0 +1,1 @@
+Revisiting Odin and refreshing my HTML and CSS skills so i can learn react
