@@ -1,0 +1,41 @@
+*{
+    background-color: lightblue;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+h1 {
+    color: purple;
+    text-decoration: underline;
+}
+
+h3{
+    color: brown;
+    text-decoration: underline;
+}
+
+ul, ol, li, p{
+    background-color: transparent;
+}
+
+a:link{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: yellowgreen;
+}
+
+h2{
+    color: goldenrod
+}
+
+li{
+    color: black
+}
